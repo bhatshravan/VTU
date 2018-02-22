@@ -10,11 +10,29 @@ import sys
 import winsound
 
 
+####################################################################
+
+
+#                                                     **************SET THESE AS NECCASSARY***************
+
+#Urls
+url1="http://results.vtu.ac.in/vitaviresultcbcs/resultpage.php"
+url5=""
+url31="16"  # YEAR
+url32="CS"  # BRANCH
+ucc="1VI"	# COLLEGE CODE
+
+save_file="15Sem5.csv"
+urltimeout=15    #15 or 20 if server is under load, 5 if not
+numbererror=4    #5 if server is slow or else 3 or 4 is okay
+numberskips=4    #5 if server is slow or else 3 or 4 is okay
+
+
 
 ####################################################################
 #Random initializations
 ##                                                         **************IMPORTANT ***********
-##                                            **************DO NOT CHANGE THESE INITIALIZAIONS ***********
+##                                       **************DO NOT CHANGE THESE INITIALIZAIONS FROM BELOW ***********
 global gradesum
 count=0 
 ccurl=0 #starting college code
@@ -40,26 +58,8 @@ clist=["1cd","1cg","1ce","1dt","1ds","1db","1da","1cc","1gv","1ec","1ep","1ew","
 
 ####################################################################
 
-
-
-
-#                                                     **************SET THESE AS NECCASSARY***************
-
-#Urls
-url1="http://results.vtu.ac.in/vitaviresultcbcs/resultpage.php"
-url5=""
-url31="16"  # YEAR
-url32="CS"  # BRANCH
-ucc="1VI"	# COLLEGE CODE
-
-save_file="15Sem5.csv"
-urltimeout=15    #15 or 20 if server is under load, 5 if not
-numbererror=4    #5 if server is slow or else 3 or 4 is okay
-numberskips=4    #5 if server is slow or else 3 or 4 is okay
-
-
-
 #                                                     **************RESULT PARSER,DO NOT MODIFY***************
+
 #####################################################################
 #Calulations
 ln=0
@@ -76,7 +76,8 @@ while ccurl<=ccend:
 		print("\nGoing to next college")
 		text_file.close()
 		text_file = open(save_file, "a")
-		#No more usn's remaining,go to next college
+
+		#No more usn's remaining,go to next college if any
 		cdone="false"
 		ccurl=ccurl+1
 		usn=0
