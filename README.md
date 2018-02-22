@@ -4,7 +4,7 @@ Python bot to automatically download marks and parse the results.
 
 * The current working file is stored into current.py
 
-##REQUIREMENTS
+## REQUIREMENTS
 Using pip, please install the following-
 - bs4 
 - requests
