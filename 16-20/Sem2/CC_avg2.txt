@@ -1,0 +1,88 @@
+1,3.92,ACS COLLEGE OF ENGINEERING
+79,4.70025316455696,Alpha College of Engineering
+1,7.58,Adarsha Institute of Technology
+1,2.5,AKSHAYA INSTITUTE OF TECHNOLOGY
+189,6.337037037037037,Amc Engineering College
+1,6.25,ACHUTHA INSTITUTE OF TECHNOLOGY
+1,7.83,Acharaya Patha Shala(A.P.S) College of Engg.
+10,6.023999999999999,AMRUTHA INSTITUTE OF ENGINEERING AND MGMT. SCIENCES
+1,9.17,AMRUTHA INSTITUTE OF ENGINEERING AND MGMT. SCIENCES
+122,6.687295081967212,Atria Institute of Technology
+46,5.776956521739132,Auden Technology and Mgmt. Academy
+1,6.83,Acharaya Institute of Technology
+8,4.59375,Bangalore College of Engineering and Technology
+121,7.715785123966942,B.N.M.Institute of Technology
+69,5.948115942028986,Bangalore TECHNOLOGICAL INSTITUTE
+182,7.504999999999995,Bangalore Institute of Technology
+1,9.0,Bms College of Engineering
+1,7.75,Sri Belimatha Maha Sahamsthana Institute of Technology
+101,5.693663366336632,BRINDAVAN COLLEGE OF ENGG
+1,5.75,Basava Academy of Engineering
+57,4.650701754385964,B.T.L.Institute of Technology
+104,7.0799038461538455,Bms Institute of Technology
+37,5.824054054054054,Dr. Sri Sri Sri SHIVKUMAR MAHASWAMY, COLLEGE OF ENGG.
+180,6.257388888888889,Cambridge Institute of Technology
+114,5.345701754385964,City Engineering College
+124,6.107338709677416,Channa Basaveshwara Institute of Technology
+114,5.248421052631576,C Byregowda Insititute Of Technology
+179,7.541787709497204,C.M.R Institute of Technology
+1,2.0,Dr. Ambedkar Institute of Technology
+170,5.914411764705883,Don Bosco Institute of Technology
+1,6.75,Dayananda Sagar College of Engineering
+119,6.843697478991594,DAYANANDA SAGAR ACADEMY OF TECHNOLOGY AND MGMT.
+1,6.58,EAST POINT COLLEGE OF ENGG. FOR WOMEN
+107,6.214953271028036,East Point College of Engineering and Technology
+170,6.019470588235294,East West Institute of Technology
+182,6.965054945054949,Global Academy of Technology
+66,5.8565151515151515,Ghousia College of Engineering
+51,5.82372549019608,GOPALAN COLLEGE OF ENGINEERING MANAGEMENT
+46,4.925869565217391,Govt. Engineering College Ramnagar
+1,6.75,G.S.S.Institute of Technology
+75,5.158133333333334,Dr. T Thimaiah Institute of Technology
+171,5.811520467836256,Hkbk College of Engineering
+40,5.01475,Hms Institute of Technology
+9,5.157777777777778,SHASHIB COLLEGE OF ENGINEERING
+42,4.40857142857143,Impact College of Engineering
+19,4.534210526315789,Islamiah Institute of Technology
+179,7.557374301675978,Sjb Institute of Technology
+120,7.3175833333333316,Jss Academy of Technicial Education
+62,6.472741935483869,JYOTHY INSTITUTE OF TECHNOLOGY
+38,5.356578947368423,Jnana Vikas Institute of Technology,
+1,7.25,SRI KRISHNA SCHOOL OF ENGINEERING MANAGEMENT
+103,5.712135922330096,Kalpataru Institute of Technology
+74,5.871486486486484,Kns Institute of Technology
+118,6.968644067796609,K.S.Institute of Technology
+100,5.403099999999999,Sri Krishna Institute of Technology
+97,4.415051546391753,M.S.Engineering College
+173,6.213063583815027,Mvj College of Engineering
+128,7.545859375000001,Sir M. Visvesvaraya Institute of Technology
+1,3.0,Nagarjuna College of Engineering and Technology
+1,3.0,New Horizon College of Engineering
+5,1.816,Nadgir Institute of Engineering and Technology
+102,5.780294117647058,Oxford College of Engineering
+185,7.259729729729731,Pes School of Engineering
+28,3.878214285714286,P N S WOMENS INSTITUTE OF TECHNOLOGY
+39,4.722820512820513,Sri Revanasiddeshwara Institute of Technology
+1,8.67,Reva Institute of Technology and Mangement
+117,5.700341880341879,Rajiv Gandhi Institute of Technology
+44,5.179772727272726,R R INSTITUTE OF TECHNOLOGY
+111,5.247747747747749,R.L.Jalappa Institute of Technology
+119,7.850588235294116,Rns Institute of Technology
+171,5.753801169590642,Rajarajeswari College of Engineering
+107,6.249999999999999,Shirdi Sai Engineering College
+1,8.92,Sct Institute of Technology
+112,7.0069642857142815,Sapthagiri College of Engineering
+119,6.696890756302522,S.J.C Institute of Technology
+42,6.936428571428571,Government SKSJT Institute of Technology
+93,5.895161290322583,Sea College of Engineering and Technology
+176,5.503465909090905,Sambhram Institute of Technology
+1,5.58,Shridevi Institute of Engineering and Technology
+1,1.33,SRI BASAVESHWAR INSTITUTE OF TECHNOLOGY
+11,4.90090909090909,SAMPOORNA INSTITUTE OF TECHNOLOGY? RESEARCH
+115,5.536434782608696,T. John Institute of Technology
+61,6.562950819672132,SAI VIDYA INSTITUTE OF TECHNOLOGY
+120,6.433250000000001,Sri Venkateshwara College of Engineering
+113,6.406106194690262,Vemana Institute of Technology
+60,5.634499999999999,VIJAYA VITTALA INSTITUTE OF TECHNOLOGY
+84,5.597142857142856,Vivekananda Institute of Technology
+27,4.768518518518518,Yellamma Dasappa Institute of Technology
