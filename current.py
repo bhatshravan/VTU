@@ -18,9 +18,9 @@ import winsound
 #Urls
 url1="http://results.vtu.ac.in/vitaviresultcbcs/resultpage.php"
 url5=""
-url31="16"  # YEAR
+url31="17"  # YEAR
 url32="CS"  # BRANCH
-ucc="1VI"	# COLLEGE CODE
+ucc="1KS"	# COLLEGE CODE
 
 save_file="15Sem5.csv"
 urltimeout=15    #15 or 20 if server is under load, 5 if not
@@ -69,11 +69,10 @@ susn=""
 
 #loop through all given colleges
 while ccurl<=ccend:
-	#ucc=(clist[ccurl]).upper()
+
 	text_file = open(save_file, "a")
 		
 	if(cdone=="done" or skip>5):
-		print("\nGoing to next college")
 		text_file.close()
 		text_file = open(save_file, "a")
 
@@ -106,7 +105,7 @@ while ccurl<=ccend:
 		try:
 
 			#QUERY WEBSITE FOR RESULT
-			response =requests.post(url1, data={'usn':ultusn}, timeout=urltimeout)
+			response =requests.post(url1, data={'sln':ultusn}, timeout=urltimeout)
 			soup = BeautifulSoup(response.content,"html.parser")
 			tables = soup.findChildren("div", {"class":"divTableBody"})
 			rows = tables[0].findChildren("div", {"class":"divTableRow"})
@@ -121,7 +120,7 @@ while ccurl<=ccend:
 
 			#GET THE MARKS AND FORMAT SGPA
 			ll=1
-			i1=i2=i3=i4=i5=i6=i7=i8=0;
+			i1=i2=i3=i4=i5=i6=i7=i8=0
 			sgpa=0
 			valuen=4
 			valuesum=0
