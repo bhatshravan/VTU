@@ -69,11 +69,10 @@ susn=""
 
 #loop through all given colleges
 while ccurl<=ccend:
-	#ucc=(clist[ccurl]).upper()
+
 	text_file = open(save_file, "a")
 		
 	if(cdone=="done" or skip>5):
-		print("\nGoing to next college")
 		text_file.close()
 		text_file = open(save_file, "a")
 
@@ -106,7 +105,7 @@ while ccurl<=ccend:
 		try:
 
 			#QUERY WEBSITE FOR RESULT
-			response =requests.post(url1, data={'usn':ultusn}, timeout=urltimeout)
+			response =requests.post(url1, data={'sln':ultusn}, timeout=urltimeout)
 			soup = BeautifulSoup(response.content,"html.parser")
 			tables = soup.findChildren("div", {"class":"divTableBody"})
 			rows = tables[0].findChildren("div", {"class":"divTableRow"})
